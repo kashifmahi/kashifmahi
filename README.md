@@ -1,7 +1,7 @@
 
 Hi 👋🏽, I'm Senior Web & Blockchain Developer!!
 
-Muhammad kashif is highly professional in software development with 4 years of experience, solid leadership and relationships building skills. 
+i am highly professional in software development with 4 years of experience, solid leadership and relationships building skills. 
 Experienced in developing blockchain products like 
 Smart contracts, non-custodial wallets ,token integration, 
 Having Deep knowledge of NFTs and DeFi with different standards 
