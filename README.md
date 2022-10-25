@@ -48,4 +48,8 @@ Connect with me:
 
 <p style="display: flex; justify-content: space-around"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kashifmahi&show_icons=true&locale=en&&theme=radical&hide_border=true" alt="Kashif_Mahi" /></p>
 
+<p align="left" style="display: flex; justify-content: space-around; flex-wrap: wrap">
+<img src="https://github-readme-stats.vercel.app/api?username=kashifmahi&show_icons=true&locale=en&theme=radical&hide_border=true" alt="kash" />
+</p>
+
 ⭐️ From kashif Mahi
